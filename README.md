@@ -26,3 +26,13 @@ Para ejecutar el programa:
 
 ```bash
 python app.py
+```
+## Funcionalidades
+
+La primera versión del sistema permite:
+
+- Registrar gastos.
+- Listar los gastos registrados.
+
+El proyecto se encuentra en desarrollo y posteriormente se incorporarán
+nuevas funcionalidades para mejorar la administración de los gastos.
