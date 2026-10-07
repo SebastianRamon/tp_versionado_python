@@ -34,7 +34,7 @@ def listar_gastos():
 
 
 def iniciar():
-    print("=== CONTROL DE GASTOS ===")
+    print("=== CONTROL DE GASTOS - VERSION ESTABLE ===")
 
     while True:
         print("\n1. Registrar gasto")
